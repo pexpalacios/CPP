@@ -2,7 +2,7 @@
 42 Milestones 4 &amp; 5
 
 
-The CPP modules are a series of simple exercises that serve as an introduction to both the c++ language and ooc languages as a whole. There are nine modules, each focusing on different parts of c++.
+The CPP modules are a series of simple exercises that serve as an introduction to both the c++ language and oop as a whole. There are nine modules, each focusing on different parts of c++.
 
 
 
