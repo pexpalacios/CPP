@@ -14,12 +14,13 @@ An introduction of how c++ works. Contains:
 ```
 - ex 01: Phonebook
 ```
-	Make two classes, a phonebook and its contacts. Use functions to set and get contact info within the phoebook
+	Make two classes, a phonebook and its contacts. Use functions to set and get contact info within the phonebook
 ```
 - ex 02: AccLogs
 ```
 	Figure out a .cpp file from a .hpp file, a main and the program's outout.
 ```
+
 
 
 ### CPP 01
@@ -53,3 +54,23 @@ Some new c++ characteristics. Contains:
 	An introduction to switch cases and cascades
 ```
 
+
+
+### CPP 02
+The orthodox canonical form and fixed points. Contains:
+- ex 00: My First Class in Orthodox Canonical Form
+```
+	Create a fixed-point class that complies with the orthodox canonical form
+```
+- ex 01: Towards a more useful fixed-point number class
+```
+	Make the fixed-point class more useful by adding int and float converters
+```
+- ex 02: Now we’re talking
+```
+	Including overloading operators to the fixed-point class
+```
+- ex 03: BSP
+```
+	A little exercise using fixed-points to guess if a certain point is inside a triangle
+```
