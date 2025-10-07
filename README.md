@@ -74,3 +74,24 @@ The orthodox canonical form and fixed points. Contains:
 ```
 	A little exercise using fixed-points to guess if a certain point is inside a triangle
 ```
+
+
+
+### CPP 03
+Classes and inheritance. Contains:
+- ex 00: Aaaaand... OPEN!
+```
+	Create a class with some private attributes and unique functions
+```
+- ex 01: Serena, my love!
+```
+	Make a child of the previous class changing some functions' behaviour
+```
+- ex 02:  Repetitive work
+```
+	Make a second different child that comes from the same parent and changes behaviours to different ones
+```
+- ex 03: Now it’s weird!
+```
+	Make a grandchild using diamond inheritance, using both of the previous children as parents
+```
