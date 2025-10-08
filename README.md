@@ -95,3 +95,24 @@ Classes and inheritance. Contains:
 ```
 	Make a grandchild using diamond inheritance, using both of the previous children as parents
 ```
+
+
+
+### CPP 04
+A bit more inheritance, now with abstract classes and interfaces. Contains:
+- ex 00: Polymorphism
+```
+  Create an animal class and its children cat and dog. All must have different types and make different sounds.
+```
+- ex 01:  I don’t want to set the world on fire
+```
+  Add a pruvate array of a new class called brain in cat and dog.
+```
+- ex 02: Abstract class
+```
+  Make animal an abstract class  
+```
+- ex 03: Interface & recap
+```
+  A rather confusing exercise to learn about the differences between abstract classes and interfaces
+```
