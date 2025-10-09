@@ -4,7 +4,7 @@
 
 The CPP modules are a series of simple exercises that serve as an introduction to both the c++ language and oop as a whole. There are nine modules, each focusing on different parts of c++.
 
-Milestone 4: [CPP 00](#cpp-00-)   [CPP 01](#cpp-01-)   [CPP 02](#cpp-02-)   [CPP 03](#cpp-03-)   [CPP 04](#cpp-04-)
+Milestone 4: [CPP 00](#cpp-00)   [CPP 01](#cpp-01)   [CPP 02](#cpp-02)   [CPP 03](#cpp-03)   [CPP 04](#cpp-04)
 
 ---
 
@@ -56,7 +56,7 @@ Some new c++ characteristics. Contains:
 	An introduction to switch cases and cascades
 ```
 
-
+---
 
 ### CPP 02
 The orthodox canonical form and fixed points. Contains:
@@ -77,7 +77,7 @@ The orthodox canonical form and fixed points. Contains:
 	A little exercise using fixed-points to guess if a certain point is inside a triangle
 ```
 
-
+---
 
 ### CPP 03
 Classes and inheritance. Contains:
@@ -98,7 +98,7 @@ Classes and inheritance. Contains:
 	Make a grandchild using diamond inheritance, using both of the previous children as parents
 ```
 
-
+---
 
 ### CPP 04
 A bit more inheritance, now with abstract classes and interfaces. Contains:
