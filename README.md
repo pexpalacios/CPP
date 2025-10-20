@@ -141,3 +141,19 @@ Exceptions, not much else new. Contains:
 ```
 	Adding an intern that has nothing to do with the rest of it to be honest
 ```
+
+---
+
+### CPP 06
+- ex00: Conversion of scalar types
+```
+	
+```
+- ex01: Serialization
+```
+	
+```
+- ex02: Identify real type
+```
+	
+```

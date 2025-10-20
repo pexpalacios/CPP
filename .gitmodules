@@ -16,3 +16,6 @@
 [submodule "CPP_05"]
 	path = CPP_05
 	url = https://github.com/pexpalacios/CPP05.git
+[submodule "CPP_06"]
+	path = CPP_06
+	url = https://github.com/pexpalacios/CPP06.git
