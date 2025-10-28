@@ -6,7 +6,7 @@ The CPP modules are a series of simple exercises that serve as an introduction t
 
 Milestone 4: [CPP 00](#cpp-00)   [CPP 01](#cpp-01)   [CPP 02](#cpp-02)   [CPP 03](#cpp-03)   [CPP 04](#cpp-04)
 
-Milestone 5: [CPP 05](#cpp-05)
+Milestone 5: [CPP 05](#cpp-05)   [CPP 06](#cpp-06)
 
 ---
 
@@ -145,7 +145,7 @@ Exceptions, not much else new. Contains:
 ---
 
 ### CPP 06
-Static and dynamic casting. Contains:
+Static_cast, reinterpret_cast and dynamic_cast. Contains:
 - ex 00: Conversion of scalar types
 ```
 	Create a converter class that converts any given input into char, int, float and double, handling cases such as inf and nan
