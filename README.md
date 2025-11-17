@@ -6,7 +6,7 @@ The CPP modules are a series of simple exercises that serve as an introduction t
 
 Milestone 4: [CPP 00](#cpp-00)   [CPP 01](#cpp-01)   [CPP 02](#cpp-02)   [CPP 03](#cpp-03)   [CPP 04](#cpp-04)
 
-Milestone 5: [CPP 05](#cpp-05)   [CPP 06](#cpp-06)   [CPP 07](#cpp-07)   [CPP 08](#cpp-08)
+Milestone 5: [CPP 05](#cpp-05)   [CPP 06](#cpp-06)   [CPP 07](#cpp-07)   [CPP 08](#cpp-08)   [CPP 09](#cpp-09)
 
 ---
 
@@ -182,13 +182,31 @@ Templates. Contains:
 Containers. Contains:
 - ex 00: Easy find
 ```
-
+	Use algorithms to create a function that finds an element within a container.
 ```
 - ex 01: Span
 ```
-	
+	Recreate the container span (unavailable in c++98) as a simple class.
 ```
 - ex 02: Mutated abomination
 ```
-	I read abortion lmao
+	Create a MutantStack class that is just a stack with iterators.
+
+
+---
+
+
+### CPP 09
+No specific theme, more of a review of the rest. Contains:
+- ex 00: Bitcoin Exchange
+```
+	Getting and comparing information from a database with a Map container.
+```
+- ex 01: Reverse Polish Notration
+```
+	A calculator based off of reverse polish notation. Uses a stack.
+```
+- ex 02: PmergeMe
+```
+	Applying the Ford-Johnson algorithm in STL conatiners (list and vector).
 ```
