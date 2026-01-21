@@ -179,7 +179,7 @@ Templates. Contains:
 ---
 
 ### CPP 08
-Containers. Contains:
+Containers. Contains (lol):
 - ex 00: Easy find
 ```
 	Use algorithms to create a function that finds an element within a container.
